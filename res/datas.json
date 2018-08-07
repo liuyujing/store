@@ -1,0 +1,150 @@
+{
+  "nav": [
+    {
+      "title": "生鲜",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "image": ""
+    },
+    {
+      "title": "冷饮",
+      "url": "",
+      "image": ""
+    },
+    {
+      "title": "零食",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "image": ""
+    },
+    {
+      "title": "酒类",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "image": ""
+    },
+    {
+      "title": "香烟",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "image": "http://www.tugoo.net/template/platform_default/new/images/hot.png"
+    }
+  ],
+  "banner": [
+    "http://www.tugoo.net/UploadFile/ggs/201803231356470549.jpg",
+    "http://www.tugoo.net/UploadFile/ggs/201803231356470549.jpg",
+    "http://www.tugoo.net/UploadFile/ggs/201710131723251932.jpg"
+  ],
+  "typeNav": [
+    {
+      "title": "生鲜",
+      "des": [
+        {
+          "title": "鱿鱼"
+        },
+        {
+          "title": "甲鱼"
+        },
+        {
+          "title": "帝王蟹"
+        },
+        {
+          "title": "澳龙"
+        }
+      ]
+    },
+    {
+      "title": "生鲜",
+      "des": [
+        {
+          "title": "鱿鱼"
+        },
+        {
+          "title": "甲鱼"
+        },
+        {
+          "title": "帝王蟹"
+        },
+        {
+          "title": "澳龙"
+        }
+      ]
+    },
+    {
+      "title": "生鲜",
+      "des": [
+        {
+          "title": "鱿鱼"
+        },
+        {
+          "title": "甲鱼"
+        },
+        {
+          "title": "帝王蟹"
+        },
+        {
+          "title": "澳龙"
+        }
+      ]
+    },
+    {
+      "title": "水果",
+      "des": [
+        {
+          "title": "苹果"
+        },
+        {
+          "title": "桃子"
+        },
+        {
+          "title": "菠萝"
+        },
+        {
+          "title": "橘子"
+        }
+      ]
+    }
+  ],
+  "goods": [
+    {
+      "kind":"0",
+      "id":"shengxian",
+      "title": "生鲜",
+      "addr": "http://www.tugoo.net/UploadFile/ggs/201605261835490333.jpg",
+      "des": [
+        {
+          "id":"0",
+          "title": "鱿鱼",
+          "price": "300",
+          "name": "爆炒鱿鱼",
+          "image": "http://www.tugoo.net/UploadFile/product/317/201611120828292186.jpg"
+        },
+        {
+          "id":"1",
+          "title": "鱿鱼",
+          "price": "300",
+          "name": "爆炒鱿鱼",
+          "image": "http://www.tugoo.net/UploadFile/product/317/201611120828292186.jpg"
+        }
+      ]
+    },
+    {
+      "kind":"1",
+      "id":"shuiguo",
+      "title": "水果",
+      "addr": "http://www.tugoo.net/UploadFile/ggs/201605261835490333.jpg",
+      "des": [
+        {
+          "id":"0",
+          "title": "鱿鱼",
+          "price": "300",
+          "name": "爆炒鱿鱼",
+          "image": "http://www.tugoo.net/UploadFile/product/302/201410181537355199_352_352.png"
+        },
+        {
+          "id":"1",
+          "title": "鱿鱼",
+          "price": "300",
+          "name": "爆炒鱿鱼",
+          "image": "http://www.tugoo.net/UploadFile/product/317/201611120828292186.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+@import "tools";
+.main{
+  .main_container {
+
+    .left_goods {
+      width: 400px;
+      height: 400px;
+      background: no-repeat center;
+      background-size: cover;
+
+      .relative();
+      .scale_container{
+        overflow: hidden;
+        display: none;
+        width: 400px;
+        height: 400px;
+        background: white no-repeat center;
+        background-size: cover;
+        .absolute(400px);
+        border-radius: 50%;
+        box-shadow: 0 0 10px grey;
+      }
+    }
+
+    .goods_info {
+      width: 400px;
+      height: 400px;
+      padding:3rem;
+      .title {
+        padding:3rem;
+        text-align: center;
+        font-size: 2rem;
+      }
+      p{
+        text-align: center;
+        padding:2rem;
+        .price {
+          font-weight: bold;
+          color: red;
+        }
+      }
+      button {
+        .toBlock(10rem,2rem);
+        .center(1rem);
+        background-color: orange;
+        color: white;
+        border-radius: 0.5rem;
+      }
+    }
+  }
+}
